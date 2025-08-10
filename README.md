@@ -1,16 +1,16 @@
-# todo_list
+✅ Todo List App using Cubit (Flutter)
+A simple and clean Todo List application built with Flutter and Cubit (flutter_bloc) for state management.
+This app demonstrates how to manage CRUD operations (Create, Read, Update, Delete) efficiently while keeping UI and business logic separate.
 
-A new Flutter project.
+🚀 Features
+➕ Add new tasks
 
-## Getting Started
+State management using Cubit for a lightweight, reactive architecture
 
-This project is a starting point for a Flutter application.
+🛠️ Tech Stack
+Flutter — UI toolkit
 
-A few resources to get you started if this is your first Flutter project:
+Dart — Programming language
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+flutter_bloc — State management (Cubit)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
